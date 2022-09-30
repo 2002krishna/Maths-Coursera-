@@ -1,0 +1,45 @@
+How many solutions does this system have?
+
+7x1 + 7x2 = 35
+7x1 + 8x2 = 37
+
+Ans:- One solution
+
+Question 2
+What is the solution to these equations
+
+7x1 + 1x2 = 35
+7x1 + 1x2 = 37
+
+If the solution is unique, give the value of x2; 
+If the solution is not unique, give the value of x2 in the solution of the form (0,x2) assuming x1=0 (or write "None" if this does not exist).
+if there is no solution, write "None" as the answer.
+
+
+Ans:-  None
+
+
+Question 3
+Give the value that will appear in the marked positions when the proper multiple of the first equation is subtracted from all the other rows, where the multiplier is chosen to eliminate the coefficients in x1
+2x1+2x2+x3 = 40
+1x1+5x2+x3 = 20
+2x1+5x2-x3 =  0
+
+D = ?
+
+Ans:-40
+
+Question 4
+Which of the "following" is the matrix form of the system?
+
+Ans: [ 2  2  1] [x1]     [ 40 ]
+     [ 1  5  1] [x2]  =  [ 20 ]
+     [ 2  5 -1] [x3]     [ 0  ]
+     
+Question 5
+
+Ans :  [ 0     0    0]
+       [ -1/2  0    0]
+       [ -1/2  0    0]
+
+
