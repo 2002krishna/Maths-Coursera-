@@ -8,7 +8,8 @@ A = [ x  x ]       B = [ x  x  x ]    C =[ x  x ]
     
     
   Ans:-   CxCxB
-          AxA         
+          AxB
+          AxC
   
   
 Question 2
