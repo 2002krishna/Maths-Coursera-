@@ -8,7 +8,7 @@ A = [ x  x ]       B = [ x  x  x ]    C =[ x  x ]
     
     
   Ans:-   CxCxB
-          
+          AxA         
   
   
 Question 2
@@ -31,7 +31,7 @@ v = [ x ]        A  =  [ x   x   x   x ]
     [ x ]              [ x   x   x   x ]
 
 
-Ans:-
+Ans:Av
 
 
 
@@ -47,11 +47,32 @@ Ans:- ATv
 Question 5
 For the given matrix A, what matrix B should we pick so that the result of their multiplication is equal to A (AxB = A)?
 
-[ x   x    x ]
-[ x   x    x ]
-[ x   x    x ]
+[ x   x   x ]
+[ x   x   x ]
+[ x   x   x ]
 
 
 Ans:- Diagonal with ones on the diagonal
 
-6
+6.
+Question 6
+For the given matrix A, is there is an identity matrix I so that AxI = A. What is a size of I?
+
+
+[ x  x  x  x  x ]
+[ x  x  x  x  x ]
+[ x  x  x  x  x ]
+[ x  x  x  x  x ]
+
+Ans:-5x5
+
+Question 7
+For given matrices A, B, C, which statements are well defined and  true?
+
+
+Ans:
+Ax(CxB) = (AxC)xB
+AxB is compatible
+
+
+
