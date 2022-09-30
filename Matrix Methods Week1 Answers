@@ -1,0 +1,43 @@
+Question 1
+Consider the following table of counts of visitors to a museum during the course of one day
+Which of the following expressions yields the vector of visitor counts arriving between 1pm and 3pm, broken down by age group (expression should yield [4, 13, 12, 2, 17]'.)
+
+Ans:-[0]
+     [0]
+     [1]
+     [0]
+     
+     
+Question 2
+Regarding this table of visitors to a museum exhibit during one day:
+Which of the following expressions yields the vector of adult visitors broken down by time period?
+
+Ans:-[0 1 1 1 1 ]
+
+Question 3
+Regarding the following table of museum visitors:
+which of these expressions yields the total number of visitors aged 26-40 arriving over the entire day (57)?
+
+Ans:- [ 0 0 1 0 0] . A [1]
+                       [1]
+                       [1]
+                       [1]
+
+
+Question 4
+What is the numerical result of the following expression?
+[ 1 0 0 0 1] . A [0]
+                 [0]
+                 [0]
+                 [1]
+
+Ans:-  24
+
+Question 5?
+What is the numerical result of the following expression?
+[ 0 1 0 0 1] . A [1]
+                 [0]
+                 [1]
+                 [0]
+                 
+Ans:-48
